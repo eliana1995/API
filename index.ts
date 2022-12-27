@@ -4,9 +4,9 @@ import { graphqlHTTP } from 'express-graphql';
 import express from 'express';
 
 export const users = [
-    { id: 1, name: 'Bruce', email: 'bruce@gmail.com'},
-    { id: 2, name: 'alex', email: 'alex@gmail.com'},
-    { id: 3, name: 'kurt', email: 'kurt@gmail.com'}
+    { id: 1, name: 'eliana', email: 'eliana@gmail.com'},
+    { id: 2, name: 'anna', email: 'anna@gmail.com'},
+    { id: 3, name: 'elie', email: 'elie@gmail.com'}
 ];
 
 
