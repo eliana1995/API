@@ -1,1 +1,1 @@
-# typescript
+# graphq
